@@ -1,8 +1,0 @@
-applications:
-- name: disease_identifier
-  host: di
-  path: .
-  memory: 8000M
-  disk_quota: 2000M
-  command: python server.py
-  buildpack: python_buildpack
