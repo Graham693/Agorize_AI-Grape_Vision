@@ -3,7 +3,7 @@ Find here interesting links and resources for ML libraries and CNN for image rco
 
 General Notes:
 - We don't give a damn about inference. All in for predictability.
-- Tensorflow seems to be the biggest hit and I'm willing to focus in on this one due to its ease of use for working with **deep neural networks**, image classification, and GPU acceleration capabilities. You can also use Keras on top of Tensorflow seamlessly. **We can also run code in Google collab with is fantastic for collaborating code, it's like Google docs for code!**
+- Tensorflow seems to be the biggest hit and I'm willing to focus in on this one due to its ease of use for working with **deep neural networks**, image classification, GPU acceleration capabilities, and the ability to run code in Google collab which is fantastic for collaborative coding (it's like Google docs for code). You can also use Keras on top of Tensorflow seamlessly for any reason we may need.
   - [5min tensorflow demo](https://www.youtube.com/watch?v=QfNvhPx5Px8&ab_channel=SirajRaval)
   - There are like millions of tutorial videos so just go out there and browse a bit.
 
