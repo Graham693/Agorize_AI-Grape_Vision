@@ -1,4 +1,3 @@
-# Agorize_AI-Grape_Vision
-Agorize AI Competition - Mildew dectection using convolutional neuro networks     
+# Agorize AI Grape_Vision
 
 > working branch to test CNN models
