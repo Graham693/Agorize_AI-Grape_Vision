@@ -2,14 +2,9 @@
 **This is a machine learning project for the Agorize AI competition. The goal is to develop a grapevine disease dectection model using convolutional neural networks.**
 
 ## TO DO
-- Do research on CNN training on images
-- Read about neural networks and how they're used for image recognition
-- Do research on types of ML libraries fo rthe project (scikit learn, tensorflow, and pytorch)
-- Start making a presentation template
-
-- Decide on which ML library to try employing
-- Data augmentation
-- Compiling of all data into a directory for train, test, and validation
+- Work on presentation lololol
+- Play with any other CNN model fits if there's time
+- Data augmentation? Data is already somewhat aumented so this is fine.
 
 ## Presentation Link
 - [Pitch Presentation Here](https://docs.google.com/presentation/d/1OMM0j5fJ0e36dE2Ewv7QXdOraXNaE_v3A8AL50V67fo/edit?usp=sharing)
