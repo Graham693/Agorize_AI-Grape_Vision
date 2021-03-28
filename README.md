@@ -18,5 +18,3 @@
 ## Acknowledgement
 Thank you to the researchers below who developed the open source dataset that lets experiential learning projects like this take place:
 - Hughes, D., & Salathé, M. (2015). **An open access repository of images on plant health to enable the development of mobile disease diagnostics.** *arXiv preprint arXiv:1511.08060.*
-
-
